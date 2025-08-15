@@ -2,7 +2,7 @@
 
 **Versatile Software Engineer** with 10+ years of experience spanning **mobile development**, **full-stack engineering**, and **technical education**.  
 Currently driving **AI-powered web applications** and mentoring the next generation of developers.  
-Based in Texas, USA 🇺🇸 | Open to global opportunities 🌏
+Based in Allen, Texas, USA 🇺🇸 | Open to global opportunities 🌏
 
 ---
 
