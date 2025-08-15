@@ -8,7 +8,7 @@ Based in Allen, Texas, USA 🇺🇸 | Open to global opportunities 🌏
 
 ## 🛠 Tech Stack
 
-**Languages**: Java, Python, Kotlin, HTML, CSS, JavaScript, SQL, ARM Assembly  
+**Languages**: Java, Python, Kotlin, HTML, CSS, JavaScript, SQL
 **Mobile Development**: Android Framework, Bluetooth API, Telephony Framework  
 **Backend**: Flask, REST API, AWS Lambda  
 **Databases**: MySQL, MongoDB, DynamoDB  
