@@ -55,8 +55,8 @@ Based in Allen, Texas, USA 🇺🇸 | Open to global opportunities 🌏
 ---
 
 ## 📫 Get in Touch!
-- 💌 **Email**: your-email@example.com  
-- 🔗 **LinkedIn**: [[Your LinkedIn](https://www.linkedin.com/in/julianahyowonkim/)](#)  
+- 💌 **Email**: kimhyowon1@gmail.com  
+- 🔗 **LinkedIn**: (https://www.linkedin.com/in/julianahyowonkim/)  
 
 ---
 ⭐️ _“I solve problems with clean, scalable, and impactful engineering—whether in mobile, cloud, or AI.”_
